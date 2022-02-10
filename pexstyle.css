@@ -1,0 +1,222 @@
+*{
+    margin: 0;
+}
+.body{
+    font-family: -apple-system,BlinkMacSystemFont,segoe ui,roboto,oxygen,cantarell,helvetica neue,ubuntu,sans-serif;
+}
+.home img{
+    width: 100%;
+    height: 434px;
+
+}
+.navbar{
+    display: flex;
+    margin-left: 13px;
+    margin-top: -57px;
+}
+.home{
+    width: 100%;
+    height: 66px;
+}
+.logo img{
+    width:45px;
+    height:45px;
+}
+.nav1 a{
+    color: white;
+    margin-top: 10px;
+    margin-left: 13px;
+    font-size: 22px;
+    text-decoration: none;
+    position: absolute;
+    font-weight: 700;
+}
+.nav2{
+    color: white;
+    margin-left: 920px;
+    font-size: 17px;
+    margin-top: 8px;
+    
+}
+.nav2 a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.a{
+    margin-left: 31px;
+}
+.b{
+    background-color: #05a081;
+    font-size: 17px;
+    color: white;
+    width: 86px;
+    height: 39px;
+    margin-left: 46px;
+    border-radius: 6px;
+    font-weight: 600;
+    cursor: pointer;
+
+}
+
+.c{
+    color: white;
+    text-align: left;
+    margin-left: 447px;
+    font-size: 40px;
+    margin-top: 31px;
+    font-weight: bolder;
+    
+}
+.search{
+    background-color:white;
+    width: 653px;
+    height: 63px;
+    border-radius: 8px;
+    position: absolute;
+    margin-top: 6px;
+    margin-left: 450px;
+
+}
+.searchtext{
+    width: 520px;
+    height: 34px;
+    margin-left: 11px;
+    margin-top: 12px;
+    border: none;
+    outline: none;
+}
+
+.searchicon img{
+    height: 24px;
+    width: 65px;
+    position: absolute;
+    margin-left: 1036px;
+    font-size: 63px;
+    margin-top: 25px;
+}
+.undersearch{
+    font-size: 15px;
+    color: white;
+    margin-left: 465px;
+    margin-top: 78px;
+    position: absolute;
+}
+.undernav{
+  
+    color: rgb(221, 217, 217);
+    position: absolute;
+    margin-left: 540px;
+    margin-top: 77px;
+    font-size: 14px;
+   
+
+}
+.undernav a{
+    text-decoration: none;
+    color: rgb(232 220 220);
+}
+.undernav a:hover{
+    color:white
+    
+}
+.underbottom{
+    margin-left: 10ps;
+    margin-top: 10px;
+
+
+
+}
+.jusmain{
+    margin-left: 1307px;
+    position: absolute;
+    margin-top: 182px;
+
+}
+.jus{
+    color:rgb(232 220 220);
+  
+    font-size: 13px;
+}
+
+.jus:hover{
+    color: white;
+}
+.submain{
+    display: flex;
+   
+    margin-top: 207px;
+    background-color: white;
+    width: 100%;
+    height: 61px;
+    
+}
+.sub{
+    margin-top: 22px;
+    font-size: 18px;
+    margin-left: 514px;
+}
+.sub a{
+    margin-left: 18px;
+    color: black;
+    text-decoration: none;
+
+}
+.sub a:hover{
+    color: #0064f9;
+ 
+    
+   
+}
+.d{
+    color: #0064f9;
+    font-size: 22px;
+    padding: 12px;
+    position: relative;
+    left: 0;
+    bottom: -1px;
+    border-width: 0 0 3px;
+    border-style: solid;
+    border-color: #0064f9;
+  
+}
+.downleft{
+    margin-left: 72px;
+    margin-top: 25px;
+    margin-bottom: 11px;
+    font-size: 19px;
+    font-weight: 600;
+
+}
+.downright{
+    margin-left: 1332px;
+    margin-top: -34px;
+    margin-bottom: 11px;
+    position: absolute;
+    border-radius: 0px;
+}
+.downright select{
+    width: 81px;
+    border: none;
+}
+.downright::after{
+    position: absolute;
+}
+.downright option{
+    position: absolute;
+}
+
+.container img{
+    width: 100%;
+    height: auto;
+    display:block;
+    margin-bottom: 20px;
+   
+}
+.container{
+    column-count: 3;
+    max-width: 2000px;
+    margin-left: 81px;
+    margin-right: 81px;
+}
